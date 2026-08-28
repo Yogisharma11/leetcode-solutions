@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
