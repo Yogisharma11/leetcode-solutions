@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Hash Table
@@ -29,5 +30,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
