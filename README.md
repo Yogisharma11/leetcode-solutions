@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
