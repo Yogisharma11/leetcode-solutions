@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,10 +56,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
