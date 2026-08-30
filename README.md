@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -52,16 +54,19 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
