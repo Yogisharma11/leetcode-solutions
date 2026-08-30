@@ -6,6 +6,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0037-sudoku-solver) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Yogisharma11/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Sorting
